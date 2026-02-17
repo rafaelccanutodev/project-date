@@ -1,4 +1,3 @@
-import React from "react";
 import RelogioMan from '../assets/relogio-man.jpg'
 import { useNavigate } from "react-router-dom";
 

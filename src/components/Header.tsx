@@ -1,6 +1,3 @@
-import React from "react";
-import Section from "../pages/Section";
-
 function Header() {
     return (
         <>
